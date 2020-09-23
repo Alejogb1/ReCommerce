@@ -1,0 +1,28 @@
+{
+  "name": "ReCommerce",
+  "version": "1.0.0",
+  "description": "E-commerce site with Shopify as my headless commerce / backend. Aso I will be using React us as my main frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejogb1/ReCommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejogb1/ReCommerce/issues"
+  },
+  "homepage": "https://github.com/Alejogb1/ReCommerce#readme",
+  "dependencies": {
+    "atomize": "^1.0.26",
+    "react-router-dom": "^5.2.0",
+    "react-transition-group": "^4.4.1",
+    "shopify-buy": "^2.11.0",
+    "styletron-engine-atomic": "^1.4.6",
+    "styletron-react": "^5.2.7"
+  }
+}
